@@ -71,7 +71,7 @@ public class PermCheck {
 	}
 
 	@Test
-	public void frogTest() {
+	public void permCheckTest() {
 		int[] arr = { 4, 1, 3, 2 };
 		int[] arr1 = { 1, 3 };
 		PermCheck asdf = new PermCheck();
